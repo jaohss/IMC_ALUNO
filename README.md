@@ -1,6 +1,6 @@
 # Sistema de veículos
 
-Este projeto compreende um sistema de dados de um Aluno, no qual possui a entrada de dados dos atributos correspondentes a: nome, cpf, presença de aula, nota, peso e altura. Após isso, o sistema vai realizar uma verificação para conferiri se o CPF é válido, um verificação se o aluno será aprova ou não, desde que sua nota seja maior ou igual a 5 e presença superior a 75%. e também faz o calculo para saber o IMC do aluno através do peso e altura fornecido
+Este projeto compreende um sistema de dados de um Aluno, no qual possui a entrada de dados dos atributos correspondentes a: nome, cpf, presença de aula, nota, peso e altura. Após isso, o sistema vai realizar uma verificação para conferir se o CPF é válido, um verificação se o aluno será aprova ou não, desde que sua nota seja maior ou igual a 5 e presença superior a 75%. e também faz o calculo para saber o IMC do aluno através do peso e altura fornecido
 ## 🚀 Começando
 
 Crie um pacote para armazenar as classes Pessoa e Aluno.
