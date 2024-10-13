@@ -7,7 +7,7 @@ import Entidades.*;
 public class Main {
     public static void main(String[] args) {
         //Instanciando objeto
-        Aluno aluno = new Aluno("Audrenilson", "54649458811", 80, 1.78, 6.89, 0.60);
+        Aluno aluno = new Aluno("Cristiano Ronaldo", "07068093868", 80, 1.78, 6.89, 0.90);
         FuncoesUteis funcao = new FuncoesUteis(aluno);
         
         try {
